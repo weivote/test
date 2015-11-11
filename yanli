@@ -1,1 +1,3 @@
-yanli
+<?php
+echo 'hello world';
+?>
